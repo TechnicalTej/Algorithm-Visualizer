@@ -1,0 +1,19 @@
+.sh{
+    border: 2px solid;
+    background-color: black;
+    display: flex;   
+    justify-content: center;
+    
+}
+
+#contain{
+    padding: 20px;
+    background-color:rgba(240, 60, 60, 0.872)
+}
+
+#heading{
+    text-align: center;
+     color: black;
+}
+
+
